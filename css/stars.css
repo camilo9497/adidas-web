@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'icomoon2';
+  src:  url('../font/icomoon.eot?vuu7i');
+  src:  url('../font/icomoon.eot?vuu7i#iefix') format('embedded-opentype'),
+    url('../font/icomoon.ttf?vuu7i') format('truetype'),
+    url('../font/icomoon.woff?vuu7i') format('woff'),
+    url('../font/icomoon.svg?vuu7i#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icons-"], [class*=" icons-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon2' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icons-star-half:before {
+  content: "\e900";
+}
+.icons-rate:before {
+  content: "\e900";
+}
+.icons-star:before {
+  content: "\e900";
+}
+.icons-star-full:before {
+  content: "\e901";
+}
+.icons-rate1:before {
+  content: "\e901";
+}
+.icons-star1:before {
+  content: "\e901";
+}
+.icons-favorite:before {
+  content: "\e901";
+}
+.icons-bookmark:before {
+  content: "\e901";
+}
+.icons-star-empty:before {
+  content: "\e902";
+}
+.icons-rate2:before {
+  content: "\e902";
+}
+.icons-star2:before {
+  content: "\e902";
+}
+.icons-favorite1:before {
+  content: "\e902";
+}
+.icons-bookmark1:before {
+  content: "\e902";
+}
